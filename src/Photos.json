@@ -1,0 +1,243 @@
+[
+   
+    {
+        "id": 0,
+        "title": "Irrecha",
+        "description": "Baga ayyaana irrechaan isin gahe!", 
+        "imageUrl": "./pictures/irrechaone.jpg"
+    },
+    {
+        "id": 1,
+        "title": "Irrecha",
+        "description": "Baga ayyaana irrechaan isin gahe!",
+        "imageUrl": "./pictures/irrecha6.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Irrecha",
+        "description": "Baga ayyaana irrechaan isin gahe!",
+        "imageUrl": "./pictures/irrechathree.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Irrecha",
+        "description": "Baga ayyaana irrechaan isin gahe!",
+        "imageUrl": "./pictures/irrecha4.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Irrecha",
+        "description": "Baga ayyaana irrechaan isin gahe!",
+        "imageUrl": "./pictures/irrecha5.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Irrecha",
+        "description": "Baga ayyaana irrechaan isin gahe!",
+        "imageUrl": "./pictures/irrecha6.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Irrecha",
+        "description": "Baga ayyaana irrechaan isin gahe!",
+        "imageUrl": "./pictures/irrecha7.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Irrecha",
+        "description": "Baga ayyaana irrechaan isin gahe!",
+        "imageUrl": "./pictures/irrecha8.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Irrecha",
+        "description": "Baga ayyaana irrechaan isin gahe!",
+        "imageUrl": "./pictures/irrecha9.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Irrecha",
+        "description": "Eid Mubarak",
+        "imageUrl": "./pictures/irrecha10.jpg"
+    },
+    {
+        "id": 10,
+        "title": "Eid",
+        "description": "Eid Mubarak",
+        "imageUrl": "./pictures/eid1.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Eid",
+        "description": "Eid Mubarak",
+        "imageUrl": "./pictures/eid2.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Eid",
+        "description": "Eid Mubarak",
+        "imageUrl": "./pictures/eid3.jpg"
+    },
+    {
+        "id": 13,
+        "title": "Eid",
+        "description": "Eid Mubarak",
+        "imageUrl": "./pictures/eid4.jpg"
+    },
+    {
+        "id": 14,
+        "title": "Eid",
+        "description": "Eid Mubarak",
+        "imageUrl": "./pictures/eid5.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Eid",
+        "description": "Eid Mubarak",
+        "imageUrl": "./pictures/eid6.jpg"
+    },
+    {
+        "id": 16,
+        "title": "Eid",
+        "description": "Eid Mubarak",
+        "imageUrl": "./pictures/eid7.jpg"
+    },
+    {
+        "id": 17,
+        "title": "Eid",
+        "description": "Eid Mubarak",
+        "imageUrl": "./pictures/eid8.jpg"
+    },
+    {
+        "id": 18,
+        "title": "Eid",
+        "description": "Eid Mubarak",
+        "imageUrl": "./pictures/eid9.jpg"
+    },
+    {
+        "id": 19,
+        "title": "Eid",
+        "description": "Eid Mubarak",
+        "imageUrl": "./pictures/eid10.jpg"
+    },
+    {
+        "id": 20,
+        "title": "Lalibela",
+        "description": "Description of photo 1",
+        "imageUrl": "./pictures/lali1.jpg"
+    },
+    {
+        "id": 21,
+        "title": "Lalibela",
+        "description": "Description of photo 1",
+        "imageUrl": "./pictures/lali2.jpg"
+    },
+    {
+        "id": 22,
+        "title": "Lalibela",
+        "description": "Description of photo 1",
+        "imageUrl": "./pictures/lali3.jpg"
+    },
+    {
+        "id": 23,
+        "title": "Lalibela",
+        "description": "Description of photo 1",
+        "imageUrl": "./pictures/lali4.jpg"
+    },
+    {
+        "id": 24,
+        "title": "Lalibela",
+        "description": "Description of photo 1",
+        "imageUrl": "./pictures/lali5.jpg"
+    },
+    {
+        "id": 25,
+        "title": "Lalibela",
+        "description": "Description of photo 1",
+        "imageUrl": "./pictures/lali6.jpg"
+    },
+    {
+        "id": 26,
+        "title": "Lalibela",
+        "description": "Description of photo 1",
+        "imageUrl": "./pictures/lali7.jpg"
+    },
+    {
+        "id": 27,
+        "title": "Lalibela",
+        "description": "Description of photo 1",
+        "imageUrl": "./pictures/lali8.jpg"
+    },
+    {
+        "id": 28,
+        "title": "Lalibela",
+        "description": "Description of photo 1",
+        "imageUrl": "./pictures/lali9.jpg"
+    },
+    {
+        "id": 29,
+        "title": "Lalibela",
+        "description": "Description of photo 1",
+        "imageUrl": "./pictures/lali10.jpg"
+    },
+    {
+        "id": 30,
+        "title": "Fasiledes",
+        "description": "Description of photo 1",
+        "imageUrl": "./pictures/fasil1.jpg"
+    },
+    {
+        "id": 31,
+        "title": "Fasiledes",
+        "description": "Description of photo 1",
+        "imageUrl": "./pictures/fasil2.jpg"
+    },
+    {
+        "id": 32,
+        "title": "Fasiledes",
+        "description": "Description of photo 1",
+        "imageUrl": "./pictures/fasil3.jpg"
+    },
+    {
+        "id": 33,
+        "title": "Fasiledes",
+        "description": "Description of photo 1",
+        "imageUrl": "./pictures/fasil4.jpg"
+    },
+    {
+        "id": 34,
+        "title": "Fasiledes",
+        "description": "Description of photo 1",
+        "imageUrl": "./pictures/fasil5.jpg"
+    },
+    {
+        "id": 35,
+        "title": "Fasiledes",
+        "description": "Description of photo 1",
+        "imageUrl": "./pictures/fasil6.jpg"
+    },
+    {
+        "id": 36,
+        "title": "Fasiledes",
+        "description": "Description of photo 1",
+        "imageUrl": "./pictures/fasil7.jpg"
+    },
+    {
+        "id": 37,
+        "title": "Fasiledes",
+        "description": "Description of photo 1",
+        "imageUrl": "./pictures/fasil8.jpg"
+    },
+    {
+        "id": 38,
+        "title": "Fasiledes",
+        "description": "Description of photo 1",
+        "imageUrl": "./pictures/fasil9.jpg"
+    },
+    {
+        "id": 39,
+        "title": "Fasiledes",
+        "description": "Description of photo 1",
+        "imageUrl": "./pictures/fasil10.jpg"
+    }
+]
